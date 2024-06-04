@@ -1,6 +1,6 @@
 # FitBit: A Case Study on Women’s Health and Wellness
 
-In the era of smart devices, Bellabeat has positioned itself as a leader in providing health-focused technology for women. The dataset at the heart of this analysis comes from the FitBit Fitness Tracker, capturing minute-level output for physical activity, heart rate, and sleep monitoring from thirty Fitbit users..
+In the era of smart devices, Bellabeat has positioned itself as a leader in providing health-focused technology for women. The dataset at the heart of this analysis comes from the FitBit Fitness Tracker, capturing minute-level output for physical activity, heart rate, and sleep monitoring from thirty Fitbit users.
 
 ### The Data
 
